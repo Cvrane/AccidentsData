@@ -5,6 +5,7 @@ A Data Analytics project with efforts to draw conclusions from US accidents data
 For a Simple EDA process, I started by eliminating the unnecessary features first. This is still a WIP. My main goals for the next few weeks towards this project are: 
   * Setup an Airflow-Spark data scheduler 
   * Completely understand the ETL processes required for the data.
+  * Look at how the severity of accidents is affected by location.
 
 
 ### Conclusions
